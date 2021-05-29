@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+* {
+	background: #9bcc3f;
+	background-image: url("Background.png");
+	background-position: fixed;
+	color: #ffffff;
+	font-family: 'Inconsolata';
+	user-select: none;
+	padding: 0;
+	font-size: 24px;
+	margin: 0;
+}
+
+div {
+	background: transparent;
+}
+
+p {
+	background: transparent;
+}
+
+.container {
+	padding: 10px;
+}
+
+h1 {
+	font-size: 96px;
+	margin: 0;
+	padding: 0;
+	background: transparent;
+}
+
+h3 {
+	font-size: 64px;
+	margin: 0;
+	padding: 0;
+	background: transparent;
+}
+
+p {
+	font-size: 24px;
+	padding: 0;
+	margin: 0;
+	width: 65%;
+}
+
+strong {
+	padding: 0;
+	margin: 0;
+}
+
+button {
+	background: rgba(255, 255, 255, 0);
+	color: #ffffff;
+	border: 5px solid #ffffff;
+	padding: 10px;
+	outline: none;
+	cursor: pointer;
+	margin: 5px;
+	font-size: 32px;
+}
+
+button:hover {
+	background: rgba(255, 255, 255, 0.25);
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+blue {
+	background: transparent;
+	color: #7387ff;
+	font-size: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+red {
+	background: transparent;
+	color: #ff0000;
+	font-size: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+yellow {
+	background: transparent;
+	color: #fff200;
+	font-size: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	background: rgba(255, 255, 255, 0);
+	color: #ffffff;
+	border: 5px solid #ffffff;
+	padding: 10px;
+	outline: none;
+	cursor: text;
+	margin: 5px;
+	font-size: 24px;
+	width: 75%;
+}
+
+textarea {
+	background: rgba(255, 255, 255, 0);
+	color: #ffffff;
+	border: 5px solid #ffffff;
+	padding: 10px;
+	outline: none;
+	cursor: text;
+	margin: 5px;
+	font-size: 24px;
+	width: 75%;
+}
+
+.sidebar {
+	background: #ffffff;
+	padding: 15px;
+	position: fixed;
+	top: 32%;
+	margin-bottom: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.sidebar p {
+	background: transparent;
+	width: 100%;
+}
+
+.sidebar p a {
+	background: transparent;
+	color: #9bcc3f;
+	font-size: 24px;
+}
+
+.sidebar p a:hover {
+	font-size: 48px;
+}
+
+table {
+	border: 5px solid #ffffff;
+	padding: 0;
+	border-collapse: 0;
+	font-size: inherit;
+	background: transparent;
+}
+
+tr {
+	background: transparent;
+}
+
+th {
+	border: 5px solid #ffffff;
+	border-spacing: 0;
+	margin: 0;
+	background: transparent;
+}
+
+td {
+	border: 5px solid #ffffff;
+	border-spacing: 0;
+	padding: 5px;
+	margin: 0;
+	text-align: left;
+	background: transparent;
+}
+
+#Cheat-Sheet-Syntax {
+	width: 400px;
+}
+
+#Cheat-Sheet-Description {
+	width: 400px;
+}
+
